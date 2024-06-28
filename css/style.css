@@ -1693,8 +1693,8 @@ input[type="text"] {
   color: #555;
 }
 
-#fh5co-work .artworks_thumnail{
-  background: url(../images/artworks_thumnail.jpg) no-repeat center center;
+#fh5co-work .artworks_thumnail {
+  background: url(../images/artworks_thumnail.jpg) no-repeat top center;
   background-size: cover;
 }
 
@@ -1828,7 +1828,7 @@ input[type="text"] {
   .about_me {
     margin-bottom: 35px;
   }
-  
+
 
   #fh5co-about .col-md-4 {
     width: 60%;
